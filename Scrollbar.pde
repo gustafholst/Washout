@@ -1,4 +1,4 @@
-
+by Daniel Schiffman
 
 class HScrollbar
 {
